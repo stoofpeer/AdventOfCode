@@ -34,7 +34,6 @@
 
         private bool Increased(int v1, int v2)
         {
-            Console.WriteLine($"Checking {v2} > {v1}: {v2 > v1}");
             return v2 > v1;
         }
     }
