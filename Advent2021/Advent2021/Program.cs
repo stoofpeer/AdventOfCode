@@ -15,4 +15,8 @@ var day3 = new Day3();
 await day3.PuzzleOne();
 await day3.PuzzleTwo();
 
+var day4 = new Day4();
+await day4.PuzzleOne();
+await day4.PuzzleTwo();
+
 Console.ReadLine();
