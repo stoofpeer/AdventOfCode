@@ -23,8 +23,12 @@ Console.WriteLine("Hi Advent of code 2021\n");
 //await day5.PuzzleOne();
 //await day5.PuzzleTwo();
 
-var day6 = new Day6();
-await day6.PuzzleOne();
-await day6.PuzzleTwo();
+//var day6 = new Day6();
+//await day6.PuzzleOne();
+//await day6.PuzzleTwo();
+
+var day7 = new Day7();
+await day7.PuzzleOne();
+await day7.PuzzleTwo();
 
 Console.ReadLine();
